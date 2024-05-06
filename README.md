@@ -1,6 +1,6 @@
 # ExpNo 4 : Implement A* search algorithm for a Graph
-## Name: Abishek Xavier 
-## Register Number: 212222230004
+## Name: ABISHEIK R 
+## Register Number: 212223040005
 ## Aim :
 
 To ImplementA * Search algorithm for a Graph using Python 3.
